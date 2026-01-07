@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\ClipboardSanitizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88E2C7C-9FE6-4619-8F69-80A3461AC28B}|ClipboardSanitizer.Core\\ClipboardSanitizer.Core.csproj|c:\\workspace\\clipboardsanitizer\\clipboardsanitizer.core\\iclipboardsanitizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88E2C7C-9FE6-4619-8F69-80A3461AC28B}|ClipboardSanitizer.Core\\ClipboardSanitizer.Core.csproj|solutionrelative:clipboardsanitizer.core\\iclipboardsanitizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320847A-9640-4F5A-A295-A99366A1A976}|ClipboardSanitizer.Demo.Wpf\\ClipboardSanitizer.Demo.Wpf.csproj|c:\\workspace\\clipboardsanitizer\\clipboardsanitizer.demo.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C320847A-9640-4F5A-A295-A99366A1A976}|ClipboardSanitizer.Demo.Wpf\\ClipboardSanitizer.Demo.Wpf.csproj|solutionrelative:clipboardsanitizer.demo.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320847A-9640-4F5A-A295-A99366A1A976}|ClipboardSanitizer.Demo.Wpf\\ClipboardSanitizer.Demo.Wpf.csproj|c:\\workspace\\clipboardsanitizer\\clipboardsanitizer.demo.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320847A-9640-4F5A-A295-A99366A1A976}|ClipboardSanitizer.Demo.Wpf\\ClipboardSanitizer.Demo.Wpf.csproj|solutionrelative:clipboardsanitizer.demo.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IClipboardSanitizer.cs",
+              "DocumentMoniker": "C:\\Workspace\\ClipboardSanitizer\\ClipboardSanitizer.Core\\IClipboardSanitizer.cs",
+              "RelativeDocumentMoniker": "ClipboardSanitizer.Core\\IClipboardSanitizer.cs",
+              "ToolTip": "C:\\Workspace\\ClipboardSanitizer\\ClipboardSanitizer.Core\\IClipboardSanitizer.cs",
+              "RelativeToolTip": "ClipboardSanitizer.Core\\IClipboardSanitizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:37:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Workspace\\ClipboardSanitizer\\ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Workspace\\ClipboardSanitizer\\ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-07T14:37:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Workspace\\ClipboardSanitizer\\ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Workspace\\ClipboardSanitizer\\ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClipboardSanitizer.Demo.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:37:34.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
